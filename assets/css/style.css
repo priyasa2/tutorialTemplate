@@ -1,0 +1,19 @@
+.topic-content-wrapper .card{
+    border-radius: 20px;
+}
+.topicWise{
+    background-color: #fff;
+    border-radius: 50%;
+}
+.bg-primary,
+.btn-primary{
+    background-color: #3251A3 !important;
+}
+.side_menu a,
+.contentWrapper .nav-link{
+    color: #3251A3 !important;
+}
+.nav-link:hover{
+    background-color: #fff;
+    color: #3251A3 !important;
+}
